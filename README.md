@@ -11,7 +11,7 @@ html lang="en">
 <img src= "redwoods_state_park.jpg" alt="Redwoods State Park">
 
 <figcaption>
-<a href="https://commons.wikimedia.org/wiki/File%3AStout_Memorial_Grove_in_Jedediah_Smith_Redwoods_State_Park_in_2011_(22).JPG">
+<a href="https://images.squarespace-cdn.com/content/v1/6226f62738f4f73d2b353e79/c9573b48-f7cc-4916-b903-3762dec4290a/IMG_8826.JPG">
 Stout Memorial Grove in Jedediah Smith Redwoods State Park in 2011
 </a>
 </figcaption>
