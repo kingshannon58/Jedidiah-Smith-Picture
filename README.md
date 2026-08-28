@@ -8,7 +8,6 @@ html lang="en">
   </head>
   <body>
   <figure>
-<img src= "redwoods_state_park.jpg" alt="Redwoods State Park">
 
 <figcaption>
 <a href="https://images.squarespace-cdn.com/content/v1/6226f62738f4f73d2b353e79/c9573b48-f7cc-4916-b903-3762dec4290a/IMG_8826.JPG">
